@@ -1,6 +1,8 @@
 ---
-title: IMEC3602 Semestre 201910
+title: Herramientas Computacionales - IMEC3602
 ---
+
+Semestre 201910
 
 ## Información del Curso ##
 
