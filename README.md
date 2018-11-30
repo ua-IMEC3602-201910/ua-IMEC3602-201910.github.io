@@ -2,7 +2,7 @@
 
 IMEC3602
 
-Este es el repositorio del curso [Herramientas Computacionales IMEC3602 Semestre 201820](http://andresgm.org/Herramientas-Computacionales/) dictado por el [Prof. Andrés González Mancera](http://andresgm.org) en el [Departamento de Ingeniería Mecánica](http://mecanica.uniandes.edu.co) de la [Universidad de los Andes](http://www.uniandes.edu.co).
+Este es el repositorio del curso [Herramientas Computacionales IMEC3602 Semestre 201910](https://ua-IMEC3602-201910.github.io) dictado por el [Prof. Andrés González Mancera](http://andresgm.org) en el [Departamento de Ingeniería Mecánica](http://mecanica.uniandes.edu.co) de la [Universidad de los Andes](http://www.uniandes.edu.co).
 
 # Instalación de Python #
 
