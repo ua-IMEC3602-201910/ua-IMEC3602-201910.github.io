@@ -1,6 +1,5 @@
 ---
-layout: default
-title: IMEC3602 Semestre 201820
+title: IMEC3602 Semestre 201910
 ---
 
 ## Información del Curso ##
