@@ -2,62 +2,61 @@
 title: Herramientas Computacionales  
 ---
 
-Semestre 201910  
-
 ## Información del Curso ##
 
-**Horario**: lunes y miércoles 3:30 a 4:40 pm
+**Horario**: martes y jueves 2:00 a 3:50 pm
 
-**Salón**: ML107
+**Salón**: TBA
 
 **Profesor**: [Andrés González Mancera](http://andresgm.org)
 
-**Horario de atención**: martes 3 a 5 pm oficina ML704
+**Horario de atención**: lunes y miércoles 2 a 4 pm oficina ML704
 
 
 ## Descripción del Curso ##
 
-Los sistemas de cómputo se han convertido en herramientas básicas e indispensables para la práctica de la ingeniería moderna. El crecimiento de la capacidad de cómputo ha permitido el uso y desarrollo de nuevos **algoritmos** que están transformando el mundo y, de mayor importancia para nosotros, la forma en que se hace ingeniería ofreciendo nuevos retos y oportunidades. Este es un curso exploratorio de los **algoritmos** y las **herramientas computacionales** modernas relevantes a la práctica de la ingeniería.
+Los sistemas de cómputo se han convertido en herramientas básicas e indispensables para la práctica de la ingeniería moderna. El crecimiento de la capacidad de cómputo ha permitido el uso y desarrollo de nuevos **algoritmos** que están transformando el mundo y, de mayor importancia para nosotros, la forma en que se hace ingeniería ofreciendo nuevos retos y oportunidades. Este es un curso exploratorio de los **algoritmos** y las **herramientas computacionales** modernas relevantes a la práctica de la ingeniería.  
 
-Este **no** es un curso de simulación computacional. Los temas del curso buscan ser relevantes para todo tipo de ingeniero.
+En este curso se desarrollarán los conocimientos y habilidades básicas para el desarrollo y aplicación de algoritmos para obtener soluciones numéricas para varios tipos de problemas matemáticos y de ingeniería.  
 
-Este **no** es un curso de programación.
+Este **no** es un curso de simulación computacional. Los temas del curso buscan ser relevantes para todo tipo de ingeniero.  
+
+Este **no** es un curso de programación.  
 
 Al finalizar el curso usted debe sentirse cómodo explorando las herramientas computacionales modernas y utilizándolas para su práctica profesional.
 
 ## Objetivos ##
 
-El objetivo principal del curso es desarrollar en el estudiante la habilidad y la actitud necesarias para utilizar herramientas computacionales modernas como apoyo para la solución de problemas prácticos en ingeniería.
+El objetivo principal del curso es desarrollar en el estudiante la habilidad y la actitud necesarias para utilizar herramientas computacionales modernas como apoyo para la solución de problemas prácticos en ingeniería.  
 
-Los objetivos específicos son los siguientes:
+Los objetivos específicos son los siguientes:  
 
-* Explorar las herramientas computacionales, así como plataformas de cómputo modernas para la práctica de la ingeniería.
-* Desarrollar habilidades intelectuales pertinentes al desarrollo e implementación de algoritmos computacionales para la solución de problemas de ingeniería.
-* Entrenar al estudiante en la utilización de lenguajes de programación de alto nivel (por ejemplo Python) utilizando librerías numéricas existentes y plataformas interactivas de programación y exploración.
-* Mostrar al estudiante cómo es posible solucionar problemas de ingeniería de gran complejidad mediante la utilización de herramientas computacionales modernas.
+* Explorar las herramientas computacionales, así como plataformas de cómputo modernas para la práctica de la ingeniería.  
+* Desarrollar habilidades intelectuales pertinentes al desarrollo e implementación de algoritmos computacionales para la solución de problemas de ingeniería.  
+* Entrenar al estudiante en la utilización de lenguajes de programación de alto nivel (por ejemplo Python) utilizando librerías numéricas existentes y plataformas modernas de programación.  
+* Mostrar al estudiante cómo es posible solucionar problemas de ingeniería de gran complejidad mediante la utilización de herramientas computacionales modernas.  
 
 ## Metas de Aprendizaje ABET ##
 
-k. Usar técnicas, destrezas y herramientas modernas necesarias para la práctica de la ingeniería
+Este curso aporta en el desarrollo de las siguientes Metas de Aprendizaje ABET:
+
+1.  Habilidad para identificar, formular y resolver problemas de ingeniería complejos mediante la aplicación de los principios de la ingeniería, la ciencia y las matemáticas.  
+7. Habilidad para adquirir y aplicar nuevo conocimiento según sea necesario, utilizando estrategias de aprendizaje apropiadas.  
 
 ## Temas del Curso ##
 
-1. Herramientas computacionales. Python (y librerías), Jupyter Notebooks, Github, etc.
-2. Datos estructurados, lectura y escritura de archivos de texto.
-3. Tipos de datos y estructuras.
-4. Graficación.
-5. Ajuste de datos.
-6. Optimización.
-7. Diferenciación numérica e integración numérica.
-9. Ecuaciones diferenciales ordinarias.
-10. Análisis de señales. Reducción mediante componentes principales.
-11. Análisis de imágenes.
-12. Métodos estadísticos. Simulación de Monte Carlo.
-12. Aprendizaje de máquina y clasificación.
+1. Herramientas computacionales. Editores de texto, Github, línea de comandos, etc.  
+2. Introducción a la programación científica en Python. Estructuras de datos: arreglos de una y más dimensiones (narray) y Pandas DataFrames. Lectura y escritura de archivos de texto.  
+3. Sistemas de ecuaciones lineales.  
+4. Interpolación y ajuste de datos.  
+5. Raices de ecuaciones.  
+6. Diferenciación numérica.  
+7. Integración numérica.  
+
 
 ## Calificación ##
 
-La califiación del curso se realizará a través de la acumulación de puntos. Los puntos se otorgan por el cumplimiento a satisfacción de cada uno de los siguientes requerimientos.
+La calificación del curso se realizará a través de la acumulación de puntos. Los puntos se otorgan por el cumplimiento a satisfacción de cada uno de los siguientes requerimientos.
 
 Actividad                  | Puntos                      | Descripción
 ---------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------
