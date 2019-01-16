@@ -29,18 +29,6 @@ Se sugiere la utilización de un editor de texto con buen soporte para desarroll
 ## Algunos recursos para comenzar
 
 * [Kevin Slavin - How Algorithms Shape Our World](https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world)  
-* [Introducción a Python](http://nbviewer.jupyter.org/github/andresgm/Herramientas-Computacionales/blob/master/notebooks/00_Quick_Python_Intro.ipynb)  
-* [Definición de Funciones en Python](http://nbviewer.jupyter.org/github/andresgm/Herramientas-Computacionales/blob/master/notebooks/01_Defining_Function_in_Python.ipynb)  
-* [Numerical Tours in Python](http://www.numerical-tours.com/python/)  
-* [NumPy for Matlab users](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html)  
-* [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 * [Atom](https://atom.io/)  
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [SciPy](https://www.scipy.org/)
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/)
-* [matplotlib](https://matplotlib.org/)  
-* [Python For Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)  
-* [Python for Computational Science and Engineering](https://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)  
-* [Intro to Data Structures in Pandas](https://pandas.pydata.org/pandas-docs/stable/dsintro.html)  
-
-
+* [Visual Studio Code](https://code.visualstudio.com/)  
+* [Anaconda](https://www.anaconda.com/)  
