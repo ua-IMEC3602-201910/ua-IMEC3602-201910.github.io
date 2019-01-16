@@ -40,8 +40,8 @@ Los objetivos específicos son los siguientes:
 
 Este curso aporta en el desarrollo de las siguientes Metas de Aprendizaje ABET:
 
-1.  Habilidad para identificar, formular y resolver problemas de ingeniería complejos mediante la aplicación de los principios de la ingeniería, la ciencia y las matemáticas.  
-7. Habilidad para adquirir y aplicar nuevo conocimiento según sea necesario, utilizando estrategias de aprendizaje apropiadas.  
+1. (1.) Habilidad para identificar, formular y resolver problemas de ingeniería complejos mediante la aplicación de los principios de la ingeniería, la ciencia y las matemáticas.  
+7. (7.) Habilidad para adquirir y aplicar nuevo conocimiento según sea necesario, utilizando estrategias de aprendizaje apropiadas.  
 
 ## Temas del Curso ##
 
