@@ -47,32 +47,26 @@ Este curso aporta en el desarrollo de las siguientes Metas de Aprendizaje ABET:
 
 1. Herramientas computacionales. Editores de texto, Github, línea de comandos, etc.  
 2. Introducción a la programación científica en Python. Estructuras de datos: arreglos de una y más dimensiones (narray) y Pandas DataFrames. Lectura y escritura de archivos de texto.  
-3. Sistemas de ecuaciones lineales.  
-4. Interpolación y ajuste de datos.  
-5. Raices de ecuaciones.  
-6. Diferenciación numérica.  
-7. Integración numérica.  
-
+3. Raices de ecuaciones.  
+4. Sistemas de ecuaciones lineales.  
+5. Ajuste de datos.  
+6. FFT.
+7. Diferenciación numérica.  
+8. Integración numérica.  
+9. Ecuaciones diferenciales ordinarias.  
+10. Ecuaciones diferenciales parciales.  
+11. Introducción a la optimización.  
 
 ## Calificación ##
 
-La calificación del curso se realizará a través de la acumulación de puntos. Los puntos se otorgan por el cumplimiento a satisfacción de cada uno de los siguientes requerimientos.
+La calificación del curso se realizará a través de la calificación de **10** talleres a lo largo del periodo cada uno con un valor de 10%.  
 
-Actividad                  | Puntos                      | Descripción
----------------------------|-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------
-Talleres (x6)              | 6 puntos (1 punto cada uno) | Talleres para el desarrollo de los temas del curso.
-Propuesta de Proyecto      | 1 punto                     | Propuesta de diseño de la solución a implementar. Debe incluir justificación, investigación preliminar, objetivos, especificaciones de desempeño.
-Proyecto                   | 2 puntos                    | Implementación del sistema propuesto.
-Asistencia y participación | 1 punto                     | A criterio del profesor.
-
-Todos los puntos se asignan de maneria binaria, es decir, no se dan puntos parciales. Cada entrega se puede hacer un máximo de tres (3) veces corrigiendo y siguiendo la retroalimentación a cada entrega.
-
-Los documentos del curso se trabajan en Jupyter notebooks subidos a Github. Toda entrega se hace a través de la plataforma Sicua Plus mediante un enlace a Github.
-
-Las especificaciones y requerimientos de las entregas se pondran en el repositorio del curso en Github y se harán anuncios en Sicua Plus.
+Las especificaciones y requerimientos de cada una de las entregas se pondran en el repositorio del curso en Github y se harán anuncios en Sicua Plus.
 
 ## Referencias Bibliográficas ##
 
-1. [Repositorio Github Herramientas Computacionales](https://github.com/andresgm/Herramientas-Computacionales)
+1. [Curso en Github Herramientas Computacionales](https://github.com/ua-IMEC3602-201910/ua-IMEC3602-201910.github.io)<sup>*</sup>
 2. Chapra, S.C., Canale, R. P., Métodos numéricos para ingenieros, McGraw Hill, Sexta edición, 2011. ISBN 978-607-15-0499-9
 2. Kiusalaas, J., Numerical Methods in Engineering with Python, Cambridge University Press, Second Edition, 2010.
+
+<sup>*</sup> Otras referencias y enlaces útiles serán publicados en el repositorio del curso en Github a lo largo del periodo.  
