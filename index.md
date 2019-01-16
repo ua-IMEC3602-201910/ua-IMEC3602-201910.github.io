@@ -47,15 +47,14 @@ Este curso aporta en el desarrollo de las siguientes Metas de Aprendizaje ABET:
 
 1. Herramientas computacionales. Editores de texto, Github, línea de comandos, etc.  
 2. Introducción a la programación científica en Python. Estructuras de datos: arreglos de una y más dimensiones (narray) y Pandas DataFrames. Lectura y escritura de archivos de texto.  
-3. Raices de ecuaciones.  
-4. Sistemas de ecuaciones lineales.  
-5. Ajuste de datos.  
-6. FFT.
-7. Diferenciación numérica.  
-8. Integración numérica.  
-9. Ecuaciones diferenciales ordinarias.  
-10. Ecuaciones diferenciales parciales.  
-11. Introducción a la optimización.  
+3. Sistemas de ecuaciones lineales.  
+4. Ajuste de datos e Interpolación.  
+5. Raices de ecuaciones.  
+6. Diferenciación numérica.  
+7. Integración numérica.  
+8. Problemas de valor inicial.  
+9. Problemas de valor de frontera.  
+10. Introducción a la optimización.  
 
 ## Calificación ##
 
