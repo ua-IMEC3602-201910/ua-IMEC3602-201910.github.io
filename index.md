@@ -59,14 +59,14 @@ Este curso aporta en el desarrollo de las siguientes Metas de Aprendizaje ABET:
 
 ## Calificación ##
 
-La calificación del curso se realizará a través de la calificación de **10** talleres a lo largo del periodo cada uno con un valor de 10%.  
+La calificación del curso se realizará a través de la calificación de **10** talleres a lo largo del periodo cada uno con un valor de *10%*.  
 
 Las especificaciones y requerimientos de cada una de las entregas se pondran en el repositorio del curso en Github y se harán anuncios en Sicua Plus.
 
 ## Referencias Bibliográficas ##
 
-1. [Curso en Github Herramientas Computacionales](https://github.com/ua-IMEC3602-201910/ua-IMEC3602-201910.github.io)<sup>*</sup>
-2. Chapra, S.C., Canale, R. P., Métodos numéricos para ingenieros, McGraw Hill, Sexta edición, 2011. ISBN 978-607-15-0499-9
-2. Kiusalaas, J., Numerical Methods in Engineering with Python, Cambridge University Press, Second Edition, 2010.
+1. [Curso en Github Herramientas Computacionales](https://github.com/ua-IMEC3602-201910/ua-IMEC3602-201910.github.io)<sup>*</sup>  
+2. Chapra, S. C. and Canale, R. P. (2011) *Métodos numéricos para ingenieros.* 6a edn. México: McGraw Hill. Código biblioteca: 519.402462 CH166 Z271 2011  
+2. Kiusalaas, J., Numerical Methods in Engineering with Python, Cambridge University Press, Second Edition, 2010.  
 
 <sup>*</sup> Otras referencias y enlaces útiles serán publicados en el repositorio del curso en Github a lo largo del periodo.  
