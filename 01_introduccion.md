@@ -4,7 +4,7 @@ Este curso lo va a familiarizar con el uso adecuado de las herramientas computac
 
 ### Git y Github
 
-[Git and GitHub learning resources](https://help.github.com/articles/git-and-github-learning-resources/)
+[Git and GitHub learning resources](https://help.github.com/articles/git-and-github-learning-resources/)  
 [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ### Python y Anaconda
@@ -20,7 +20,7 @@ Este curso lo va a familiarizar con el uso adecuado de las herramientas computac
 * [Numpy Tutorial](https://www.python-course.eu/numpy.php)  
 * [An introduction to Numpy and Scipy](https://engineering.ucsb.edu/~shell/che210d/numpy.pdf)  
 * [Numerical Tours in Python](http://www.numerical-tours.com/python/)  
-* [NumPy for Matlab users](https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html)  
+* [NumPy for Matlab users](https://docs.scipy.org/doc/numpy-1.15.0/user/numpy-for-matlab-users.html)  
 * [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)  
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)  
 * [Intro to Data Structures in Pandas](https://pandas.pydata.org/pandas-docs/stable/dsintro.html)  

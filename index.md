@@ -4,13 +4,13 @@ title: Herramientas Computacionales
 
 ## Información del Curso ##
 
-**Horario**: martes y jueves 2:00 a 3:50 pm
+**Horario**: martes y jueves 2:00 a 3:50 pm  
 
-**Salón**: TBA
+**Salón**: AU206  
 
-**Profesor**: [Andrés González Mancera](http://andresgm.org)
+**Profesor**: [Andrés González Mancera](http://andresgm.org)  
 
-**Horario de atención**: lunes y miércoles 2 a 4 pm oficina ML704
+**Horario de atención**: lunes y miércoles 2 a 4 pm oficina ML704  
 
 
 ## Descripción del Curso ##
