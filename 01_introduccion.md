@@ -45,18 +45,48 @@ En Matlab el mismo bucle se escribiría así:
 
 ```matlab
 for i=1:5
-    fprintf('Hola! %i \n', i)
+  fprintf('Hola! %i \n', i)
 end
-```
+```  
+
+En los dos ejemplos anteriores, noten que el bucle está delimitado por los corchetes '{}' en el caso de C o por el conjunto ```for - end``` en el caso de Matlab. También noten que la indentación al interior de los bucles es meramente decorativa y no cumple ningún propósito funcional. En Python los bloques de código están definidos por las indentaciones, esta es una de las características más peculiares del lenguaje. El bucle anterior en Python se vería así:  
+
+```python
+for i in range(5):
+  print('Hola! {0:d}'.format(i))
+```  
+
+En el bloque de código anterior, la indentación de la línea que contiene la función ```print``` es lo que define que está dentro del bucle ```for```. Para aclarar esto, miremos un ejemplo un poco más complejo, un bucle dentro del otro:  
+
+```python
+for i in range(3):
+    for j in range(3):
+        print(i, j)
+    print("Esta línea está dentro del bucle i, más no el bucle j")
+```  
 
 ## Estructuras de datos para programación científica: Numpy, Scipy y Pandas
 
+Como mencionamos en la introducción de la clase, los arreglos multidimensionales son las estructuras de datos básicas necesarias en muchas aplicaciones en programación científica y analisis de datos. La librería Numpy proporciona esta estructura de datos. Creemos un nuevo arreglo ```x``` con valores entre 0 y 2\*pi.  
+
+```python
+x = np.linspace(0, 2*np.pi, 100)
+```
+
+
+
 * [Numpy Tutorial](https://www.python-course.eu/numpy.php)  
-* [An introduction to Numpy and Scipy](https://engineering.ucsb.edu/~shell/che210d/numpy.pdf)  
-* [Numerical Tours in Python](http://www.numerical-tours.com/python/)  
-* [NumPy for Matlab users](https://docs.scipy.org/doc/numpy-1.15.0/user/numpy-for-matlab-users.html)  
+
 * [From Python to Numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)  
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/)  
+
+* [NumPy for Matlab users](https://docs.scipy.org/doc/numpy-1.15.0/user/numpy-for-matlab-users.html)  
+
 * [Intro to Data Structures in Pandas](https://pandas.pydata.org/pandas-docs/stable/dsintro.html)  
+
+
+
+* [Numerical Tours in Python](http://www.numerical-tours.com/python/)  
+* [Scipy Lecture Notes](http://www.scipy-lectures.org/)  
+* [An introduction to Numpy and Scipy](https://engineering.ucsb.edu/~shell/che210d/numpy.pdf)  
 
 ## Lectura y escritura de datos en archivos de texto
