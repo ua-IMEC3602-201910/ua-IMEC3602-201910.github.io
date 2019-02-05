@@ -13,7 +13,7 @@ Uno de los métodos más usados para la interpolación de grupos de datos discre
 La regresión por mínimos cuadrados es importante en muchas aplicaciones en ingeniería. Por ejemplo, permite encontrar parámetros adecuados para modelar sistemas físicos. Estudie la sección 3.4 del libro de Kiusalaas. 1.) Implemente la función ```polyFit``` como se muestra en la sección. En donde sea posible, trate de reemplazar bucles ```for``` por expresiones vectorizadas.  
 2.) Estudie la función [numpy.polynomial.polynomial.polyfit](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.polynomial.polynomial.polyfit.html#numpy.polynomial.polynomial.polyfit). Compare los resultados de su función con los de [numpy.polynomial.polynomial.polyfit](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.polynomial.polynomial.polyfit.html#numpy.polynomial.polynomial.polyfit) para resolver, por ejemplo, los ejemplos mostrados al final de la documentación.  
 
-3. Utilizando la función [numpy.polynomial.polynomial.polyfit](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.polynomial.polynomial.polyfit.html#numpy.polynomial.polynomial.polyfit) resuelva los ejercicios 3.4.9 y 3.4.14.  
+3.) Utilizando la función [numpy.polynomial.polynomial.polyfit](https://docs.scipy.org/doc/numpy-1.15.0/reference/generated/numpy.polynomial.polynomial.polyfit.html#numpy.polynomial.polynomial.polyfit) resuelva los ejercicios 3.4.9 y 3.4.14.  
 
 
 ### Transformada de Fourier
